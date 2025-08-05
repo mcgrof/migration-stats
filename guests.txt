@@ -1,4 +1,10 @@
-e1-ext4-2k 01-baseline-jfix.stats.txt
-e2-ext4-2k 02-dave-guest1.stats.txt
-e3-ext4-2k 03-dave-guest1.stats.txt
-e5-ext4-2k 04-pwrite.stats.txt
+pw2-xfs-reflink-4k 4k
+pw2-xfs-reflink-4k-dev 4k-pw
+pw2-xfs-reflink-8k-4ks 8k
+pw2-xfs-reflink-8k-4ks-dev 8k-pw
+pw2-xfs-reflink-16k-4ks 16k
+pw2-xfs-reflink-16k-4ks-dev 16k-pw
+pw2-xfs-reflink-32k-4ks 32k
+pw2-xfs-reflink-32k-4ks-dev 32k-pw
+pw2-xfs-reflink-64k-4ks 64k
+pw2-xfs-reflink-64k-4ks-dev 64k-pw
